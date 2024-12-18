@@ -1,0 +1,5 @@
+flask
+pandas
+statsmodels
+numpy
+streamlit
